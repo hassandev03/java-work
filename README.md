@@ -11,8 +11,3 @@ Houses complete Java projects, demonstrating practical applications.
 Contains individual short Java programs.
 ### Practice Programs: 
 Set of programs designed for honing my Java skills.
-
-
-
-Feel free to connect with me on GitHub for updates and collaboration.
-Happy coding! 🚀
