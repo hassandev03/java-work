@@ -1,4 +1,4 @@
-Welcome to the Java-Work repository, created by Muhammad Hassan Raza. This repository houses a collection of programs, projects, practice programs, and algorithms implemented in Java.
+Welcome to the java-work repository, created by Muhammad Hassan Raza. This repository houses a collection of programs, projects, practice programs, and algorithms implemented in Java.
 
 Folder Structure:
 Programs: Contains individual short Java programs.
