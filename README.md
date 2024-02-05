@@ -12,5 +12,5 @@ Contains individual short Java programs.
 ### Practice Programs
 Set of programs designed for honing my Java skills.
 
-#### About the Author
+## About the Author
 Muhammad Hassan Raza, an enthusiastic undergraduate Computer Science student, invites you to explore this repository.
